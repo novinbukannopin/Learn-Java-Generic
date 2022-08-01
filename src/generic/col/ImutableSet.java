@@ -21,6 +21,7 @@ public class ImutableSet {
         }
         for (var result1 : frozSet) {
             System.out.println(result1);
+            System.out.println("woi");
         }
     }
 }
